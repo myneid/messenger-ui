@@ -15,7 +15,7 @@
         "Messenger"
     ],
     "require": {
-        "rtippin/messenger": "^1.19"
+        "rtippin/messenger": "dev-sg"
     },
     "autoload": {
         "psr-4": {
